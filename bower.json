@@ -1,0 +1,11 @@
+{
+  "name": "cidcons",
+  "version": "0.3",
+  "main": "./css/cidcons.css",
+  "ignore": [],
+  "dependencies": {
+  },
+  "authors": [
+    "Gus Wezerek <gwezerek@gmail.com>"
+  ]
+}
