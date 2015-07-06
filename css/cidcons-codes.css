@@ -1,8 +1,11 @@
 
-.icon-bars:before { content: '\e800'; } /* '' */
-.icon-treemap:before { content: '\e801'; } /* '' */
-.icon-similarity:before { content: '\e802'; } /* '' */
-.icon-search:before { content: '\e803'; } /* '' */
-.icon-scatter:before { content: '\e804'; } /* '' */
-.icon-multiples:before { content: '\e805'; } /* '' */
-.icon-geo:before { content: '\e806'; } /* '' */
+.icon-cidcon_bars:before { content: '\e800'; } /* '' */
+.icon-cidcon_geo:before { content: '\e801'; } /* '' */
+.icon-cidcon_marker:before { content: '\e802'; } /* '' */
+.icon-cidcon_multiples:before { content: '\e803'; } /* '' */
+.icon-cidcon_placeholder-1:before { content: '\e804'; } /* '' */
+.icon-cidcon_placeholder-2:before { content: '\e805'; } /* '' */
+.icon-cidcon_scatter:before { content: '\e806'; } /* '' */
+.icon-cidcon_search:before { content: '\e807'; } /* '' */
+.icon-cidcon_similarity:before { content: '\e808'; } /* '' */
+.icon-cidcon_treemap:before { content: '\e809'; } /* '' */
