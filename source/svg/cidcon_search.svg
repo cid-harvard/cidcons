@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path d="M36.2,35.3c1.2-1.5,1.8-3.3,1.8-5.3c0-2.3-0.9-4.4-2.5-6s-3.7-2.5-6-2.5s-4.4,0.9-6,2.5S21,27.7,21,30c0,2.3,0.9,4.4,2.5,6
-	s3.7,2.5,6,2.5c1.9,0,3.8-0.6,5.3-1.8l5.2,5.2l1.4-1.4L36.2,35.3z M34.1,34.6c-1.2,1.2-2.9,1.9-4.6,1.9s-3.4-0.7-4.6-1.9
-	S23,31.7,23,30c0-1.7,0.7-3.4,1.9-4.6s2.9-1.9,4.6-1.9s3.4,0.7,4.6,1.9S36,28.3,36,30C36,31.7,35.3,33.4,34.1,34.6z M32,0L0,32
-	l32,32l32-32L32,0z M2.8,32L32,2.8L61.2,32L32,61.2L2.8,32z"/>
+<g id="Layer_1">
+	<path d="M36.2,35.3c1.2-1.5,1.8-3.3,1.8-5.3c0-2.3-0.9-4.4-2.5-6s-3.7-2.5-6-2.5s-4.4,0.9-6,2.5S21,27.7,21,30c0,2.3,0.9,4.4,2.5,6
+		s3.7,2.5,6,2.5c1.9,0,3.8-0.6,5.3-1.8l5.2,5.2l1.4-1.4L36.2,35.3z M34.1,34.6c-1.2,1.2-2.9,1.9-4.6,1.9s-3.4-0.7-4.6-1.9
+		S23,31.7,23,30c0-1.7,0.7-3.4,1.9-4.6s2.9-1.9,4.6-1.9s3.4,0.7,4.6,1.9S36,28.3,36,30C36,31.7,35.3,33.4,34.1,34.6z M32,0L0,32
+		l32,32l32-32L32,0z M2.8,32L32,2.8L61.2,32L32,61.2L2.8,32z"/>
+</g>
+<g id="Guides">
+	<g>
+	</g>
+</g>
 </svg>

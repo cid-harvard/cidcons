@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cidcons';
-  src: url('../font/cidcons.eot?81164051');
-  src: url('../font/cidcons.eot?81164051#iefix') format('embedded-opentype'),
-       url('../font/cidcons.woff?81164051') format('woff'),
-       url('../font/cidcons.ttf?81164051') format('truetype'),
-       url('../font/cidcons.svg?81164051#cidcons') format('svg');
+  src: url('../font/cidcons.eot?45650338');
+  src: url('../font/cidcons.eot?45650338#iefix') format('embedded-opentype'),
+       url('../font/cidcons.woff?45650338') format('woff'),
+       url('../font/cidcons.ttf?45650338') format('truetype'),
+       url('../font/cidcons.svg?45650338#cidcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'cidcons';
-    src: url('../font/cidcons.svg?81164051#cidcons') format('svg');
+    src: url('../font/cidcons.svg?45650338#cidcons') format('svg');
   }
 }
 */
@@ -54,13 +54,13 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-cidcon_bars:before { content: '\e800'; } /* '' */
+.icon-cidcon_multiples:before { content: '\e800'; } /* '' */
 .icon-cidcon_geo:before { content: '\e801'; } /* '' */
 .icon-cidcon_marker:before { content: '\e802'; } /* '' */
-.icon-cidcon_multiples:before { content: '\e803'; } /* '' */
+.icon-cidcon_bars:before { content: '\e803'; } /* '' */
 .icon-cidcon_placeholder-1:before { content: '\e804'; } /* '' */
 .icon-cidcon_placeholder-2:before { content: '\e805'; } /* '' */
-.icon-cidcon_scatter:before { content: '\e806'; } /* '' */
+.icon-cidcon_similarity:before { content: '\e806'; } /* '' */
 .icon-cidcon_search:before { content: '\e807'; } /* '' */
-.icon-cidcon_similarity:before { content: '\e808'; } /* '' */
+.icon-cidcon_scatter:before { content: '\e808'; } /* '' */
 .icon-cidcon_treemap:before { content: '\e809'; } /* '' */
